@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble representation and vindication of many of the messengers, elders, and brethren belonging to several of the baptized churches in this nation of and concerning their opinions and resolutions touching the civil government of these nations and of their deportment under the same : together with a cautionary word from two of the messengers to their brethren to bespeak their peaceable subjection to the present government.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45100</idno><idno type="EEBO-CITATION">10784680</idno>
+  <idno type="VID">45849</idno>
+  <idno type="EEBO-PROQUEST">2248517091</idno>
+  
+            <idno type="STC">Wing H3637A</idno>
+            <idno type="STC">ESTC R28936</idno>
+            <idno type="OCLC">10784680</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble representation and vindication of many of the messengers, elders, and brethren belonging to several of the baptized churches in this nation of and concerning their opinions and resolutions touching the civil government of these nations and of their deportment under the same : together with a cautionary word from two of the messengers to their brethren to bespeak their peaceable subjection to the present government.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Petition signed: S. Fisher [et al] ; cautionary signed: S. Fisher and J.S.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baptists --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45849:1"/>
+            <pb n="1" facs="tcp:45849:1"/>
+            <head>The Humble REPRESENTATION AND VINDICATION Of many of the Messengers, Elders, and Brethren, belonging to several of the BAPTIZED CHURCHES in this Nation, of and concerning their Opinions and Resoluti<g ref="char:EOLhyphen"/>ons touching the CIVIL GOVERNMENT of these Nations, and of their Deportment un<g ref="char:EOLhyphen"/>der the same.</head>
+            <head type="sub">Together with a Cautionary word from two of the Messengers to their Brethren, to bespeak their peaceable subjection to the present Government.</head>
+            <div type="part">
+               <p>MAny of the Messengers, Elders and Brethren of the Baptized Churches, having from se<g ref="char:EOLhyphen"/>veral parts of this Nation, met together in the City of <hi>London,</hi> to consider how and which way the Affairs of the Gospel of Christ, so far as it concerns them, might be best promoted, and all divisions and offences contrary thereunto removed, or prevented, have also thought it necessary to publish and declare their Judgements and consciences touch<g ref="char:EOLhyphen"/>ing the Civil power of the Nation, partly to vindi<g ref="char:EOLhyphen"/>cate themselvs from some aspersions hereabout undu<g ref="char:EOLhyphen"/>ly and without cause cast upon them; and partly to re<g ref="char:EOLhyphen"/>ctify all mens misapprehensions of them.</p>
+               <p>It hath been, indeed, as well matter of grief to them
+<pb n="2" facs="tcp:45849:2"/>as of prejudice to the way of truth professed by them, to hear themselvs frequently and upon all occasions, mis-reported and mis-represented, so, as if they were no friends to Magistracy and Civil Government:</p>
+               <p>Whereas (the Lord knows, who, should they not be upright herein, would be a swift Witnesse against them) they hold themselves obliged by Gospel rules, to be subject to the Higher Powers, to obey the Ma<g ref="char:EOLhyphen"/>gistrates, and submit to every Ordinance of man for the Lords sake. And in case the Civil powers do, or shall, at any time impose things about matters of Re<g ref="char:EOLhyphen"/>ligion, which they, through conscience to God, cannot actually obey, yet they know no other way in this case, but either patiently to suffer, or humbly to in<g ref="char:EOLhyphen"/>treat favour.</p>
+               <p>Neither do they hold themselvs so much concerned to know the dueness and undueness of the Call of per<g ref="char:EOLhyphen"/>sons to the Rule and Government of Nations, as that their knowledge therof, or ignorance therin, should either further or hinder their quiet and peaceable sub<g ref="char:EOLhyphen"/>mission to them, but that it becomes them alwaies to acknowledge the powers that are in present being, to be of God.</p>
+               <p>And as it is a duty incumbent upon all Christians to make supplications prayers, intercessions, and giving of thanks for all that are in Authority; so they do ac<g ref="char:EOLhyphen"/>cordingly with all their hearts acknowledge that they are bound to bless the God of Heaven for that Peace and Liberty they do enjoy under the present Govern<g ref="char:EOLhyphen"/>ment, and still to pray for those that are in Authority, that under them they may live peaceable and quiet lives in all godliness and honesty.</p>
+               <pb n="3" facs="tcp:45849:2"/>
+               <p> And if any particular persons under the same Form of Profession with them, shall at any time be found to act or speak any thing contrary hereunto (as it is possi<g ref="char:EOLhyphen"/>ble there may be in these times, as well as in the first times of the Gospel, such found, as despise Domi<g ref="char:EOLhyphen"/>nion, and are not afraid to speak evil of Dignities) yet they greatly desire all men that hear and know any such thing, not to impute such miscarriages unto their way in which they walk, or unto the generality of persons ingaged therin, but only to the persons them<g ref="char:EOLhyphen"/>selvs so offending, as being such as either are, or deserve to be dealt withal for such disorderly walking.</p>
+               <p>No do they know any ground for the Saints, as such, to expect that the Rule and Government of the world should be put into their hands, until that day in which the Lord Jesus shall visibly discend from Heaven in power and great glory, when indeed they verily be<g ref="char:EOLhyphen"/>lieve, that according to the Scriptures, the Kingdoms of this world, shal become the Kingdoms of the Lord and of his Christ, and that then the Kingdom, and Dominion, and the greatness of the Kingdom under the whole Heaven, shall be given to the people of the Saints of the most High; but till then they rather ex<g ref="char:EOLhyphen"/>pect it as their portion, patiently to suffer from the world, as the Scriptures direct them, and as the Saints usually have done, then any wise to attain the Rule and Government thereof.</p>
+               <p>Nevertheless their opinion is, that though the Saints as such are not to expect an interest and share in the Government of the World, until the good day a<g ref="char:EOLhyphen"/>foresaid; yet in the capacity of honest and faithful men ought, when called thereunto, to yield their best
+<pb n="4" facs="tcp:45849:3"/>assistance in and about the management of the Civil Government of Kingdoms or Common-wealths.</p>
+               <p>And in as much as our Saviour Christ hath given this as one sign, not long preceding his next coming, saying, <hi>This Gospel of the Kingdom shall be preached in all the world, for a witness unto all Nations, and then shall the end come.</hi> Their hope therefore is, that in these latter daies, at least for a time, God will by the hands of such Civil Powers as shall favour the Saints, open a door of greater liberty to the Saints, for the sprea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of the Gospel in the Nations of the World, then usual<g ref="char:EOLhyphen"/>ly hath been injoied in times past: And do verily be<g ref="char:EOLhyphen"/>lieve that that measure of liberty this way, which hath of late years been allowed the people of God, hath not contributed a little (God being pleased therwith) to<g ref="char:EOLhyphen"/>wards those marvelous and unwonted successes, which have been given to those, who have been instruments to procure the same.</p>
+               <closer>
+                  <signed>Signed by some of the Messengers and Elders of the Bap<g ref="char:EOLhyphen"/>tized Churches, present at this meeting in <hi>London,</hi> for themselves and in the behalf of the respective Con<g ref="char:EOLhyphen"/>gregations to which they belong.
+<list>
+                        <item>
+                           <list>
+                              <head>Messengers.</head>
+                              <item>Sam. Fisher,</item>
+                              <item>Will. Jeffery.</item>
+                              <item>Nath. Roe,</item>
+                              <item>Rich. Kingsnof,</item>
+                              <item>Jam. Sicklemore,</item>
+                              <item>Mat. Caffin,</item>
+                              <item>John Wilson▪</item>
+                              <item>Ben. Morley,</item>
+                              <item>Joh. Lupton.</item>
+                              <item>Abrah. Clough,</item>
+                              <item>Tho. Munk,</item>
+                              <item>John Hartnal,</item>
+                              <item>John Foxwel.</item>
+                           </list>
+                        </item>
+                        <item>
+                           <list>
+                              <head>Elders.</head>
+                              <item>John Griffith,</item>
+                              <item>Tho. Perrot,</item>
+                              <item>Will. Allen,</item>
+                              <item>Tho. Lamb,</item>
+                              <item>Geo. Haman▪</item>
+                              <item>John Parsons.</item>
+                              <item>Ed. Blundle,</item>
+                              <item>Joh. Templemā.</item>
+                              <item>Tho. Astey.</item>
+                              <item>Stephen <gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>agnal,</item>
+                              <item>Rob. Thomson,</item>
+                              <item>John Reeve.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:45849:3"/>
+               <head>A Cautionary Word from two of the Messengers to the Brethren, the <hi>baptized Chur<g ref="char:EOLhyphen"/>ches,</hi> to bespeak their peaceable subjection to the present Government.</head>
+               <opener>
+                  <salute>Beloved Brethren,</salute>
+               </opener>
+               <p>BY the Providence of God meeting together here at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and taking occasion, as wel for our own personal satisfaction, as that we might be the more capable to satisfy such of the Saints in all parts, as have been under the same suspitions, and jealousies with our selves to enquire of such, as we supposed could most certainly assure us, what might be the purposes of the present Power, as to the performance of the Oath and Engagements by them taken to maintain the form of Government establish in the Ins<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ment, and therin the libertie of our consciences in ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters pertaining to the worship of our God according to the <hi>36, 37, 38.</hi> ar<g ref="char:EOLhyphen"/>ticles thereof, and knowing how apt both you and we have been by many mis-representations thereof to misjudge their actions; as if (notwithstanding their prosessed good in<g ref="char:EOLhyphen"/>tentions toward us, as well as all others that are reformed from Popery and Prelacy yet in pursuance of their own great<g ref="char:EOLhyphen"/>ness (who probably might be greater yet, if they would so do) they would close in with the single Interest of such as seek the suppressing of us, and all that conform not to their more dim then divine directories under the name of Hereticks, and (as to matter of truth &amp; tyth) again sacrisice us as a prey to their pithless precepts, and pittiless purses, that take tyth of us for talking against us, and that truth too, which, in con<g ref="char:EOLhyphen"/>tradistinction to them, is held forth by us, we held it our du<g ref="char:EOLhyphen"/>ty in order to the dispossessing you of all overhasty and uniust prejudices of this Nature, to intimate to you the hopes that
+<pb n="6" facs="tcp:45849:4"/>we cannot but have (if solemn professions thereof to such as you may safety credit, may at all be credited, and if either they may not, or may and be not, the Lord will once judge between them and us) that they will have such just respects to that interest, which we have in the Instrument in common with others, as to preserve it, and that as truly and faithful<g ref="char:EOLhyphen"/>ly (to their powers) as we in truth, and faithfulness do de<g ref="char:EOLhyphen"/>sire that they should Preserve the conscience-interest of all other peaceable people, of what religion soever, as well as ours. And howbeit it will hardly content High Presbyterian Spi<g ref="char:EOLhyphen"/>rits to enjoy their own liberties in worship, unless all that dance not after their Pipe (at least when it sounds to the Tune of Tythes) be bereaved of theirs, and (contrarily to Christs mind <hi>Mat. 13.</hi> if they were as truely tares, as tis true that many such are the purest wheat) rooted out, as tares, from standing together with them in the field, <hi>i.e.</hi> the world till the Harvest, <hi>i.e.</hi> the end; yet we dare not but conclude with confidence, that the Lord will so dispose their Spirits, that we shall not onely be continued by them in that liberty to serve the Lord, which (through Gods mercy to us) we have been hitherto secured in under the present Government, but also by Removal of that terrible trebble yoak of Tyths (the only Romish relike stāding yet ūremoved, &amp; with rigidity im<g ref="char:EOLhyphen"/>posed upon us) be established in more peace than ever yet from all those pressures in the case of our consciences, which (if we be not more covetous than conscientious) we groan under more then under those that sit heavy upon our purses; and this in due season, and so soon as our better being in that par<g ref="char:EOLhyphen"/>ticular shall be sound consistent with the well being of those thousands, out of whose utter ruins we would not willingly rise, and also with the very being of the Common-wealth it self, which is very hardly yet saved from dying by all the care that could hitherto be improved to secure it, such deep designs
+<pb n="7" facs="tcp:45849:4"/>to destroy it, at least our interest in it, are ever and anon dis<g ref="char:EOLhyphen"/>covered to be driven on by them that hate us. Wherfore (holy Brethren) we beseech you in the Bowels, &amp; name of Christ Je<g ref="char:EOLhyphen"/>sus, that you have patience a while, &amp; satisfy yourselvs under som smaler suffrings rather than (as many do in these daies) run out into rash censurs of their trāsactions, who are in high places of power over us, and (for ought we know) improv<g ref="char:EOLhyphen"/>ing themselvs, whilst we think evil of them, to do us good, and beware of them that despise Dominion and speak evil of Dignities, specially so long as we see that our Rulers (as they are the Ordinance of God to us for good) so are accordingly not a terror to us in any good works we do, but in such only as are, not interpretatively only (as some good works may be) but truly evil: and let none of you suffer as an evil doer, as a Murderer, Adulterer, Thief or Drunkard, Railer or Reviler, by which sad sufferings many Saints in shew pull sufferings sometimes from Civil Powers on such as are Saints in truth, but, if we must suffer at all, let us suffer as Christi<g ref="char:EOLhyphen"/>ans, so may we glorify God in that behalf, for it is better, if the will of God so be, that we should suffer for well, then for evil doing. Beware also of being hastily wrapt in to a siding with such as are given to murmurings, and complainings, after change of what Government at present is, for that, which (for ought we know) may be far worse, for the calami<g ref="char:EOLhyphen"/>ty of such as are given to change, either backward to the old blind way, or forward in any new heady way may come sud<g ref="char:EOLhyphen"/>denly, and who knoweth the ruin of them both? but rather Brethren let us be thankful to God, and (as <hi>Paul</hi> was both to <hi>Festus</hi> and <hi>Agrippa,</hi> the best of which was but almost a Christian) respectful to our Governors, giving to them (though we be sensible of some smart for with-holding that Popish pay called Tythes) the Civilities of Ho<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, Custome and Tribute that are due to them in their respective places, for any civil, but especially for all that spiritual freedom we
+<pb n="8" facs="tcp:45849:5"/>partake of under them, the tyth of which would have more then pleased us, not above some ten years behind us. Finally praying for them also, as the mind of God is that we should <hi>1</hi> Tim. <hi>2.1.</hi> that we may live a peaceable and quiet life un<g ref="char:EOLhyphen"/>der them in all godliness and honesty. So doing we shall as<g ref="char:EOLhyphen"/>suredly be acceptable unto God, and if our Serving of God will not be so acceptable to them, but that (living as honestly and holity as we can) we shall still suffer persecution from them, then deliverance will arise to us another way, even from our Supream <hi>L. Protector Christ Jesus,</hi> at his coming, when all that tyrannize over tender consciences, and tread down truth, under what pretence soever, much more un<g ref="char:EOLhyphen"/>der meer pretence of willingnesse to do them good, shall be destroyed:</p>
+               <closer>
+                  <signed>Your Brethren and Com<g ref="char:EOLhyphen"/>panions in the Kingdom and patience of <hi>Christ Iesus,</hi>
+                     <list>
+                        <item>Samuel Fisher,</item>
+                        <item>James Sicklemore.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> printed for <hi>Francis Smith▪</hi> and are to be sold at his shop in <hi>Flying-Horse Court</hi> in <hi>Fleetstreet,</hi> 1655.</p>
+            <pb facs="tcp:45849:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
